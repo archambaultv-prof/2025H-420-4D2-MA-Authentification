@@ -1,7 +1,8 @@
 {
-  "name": "bac-a-sable-node",
+  "name": "authenfication",
   "version": "1.0.0",
-  "description": "Bac à sable pour s'amuser avec Nodejs",
+  "private": true,
+  "description": "Exemple d'authentification avec bcrypt et jsonwebtoken",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
@@ -9,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/archambaultv-prof/bac-a-sable-node.git"
+    "url": "git+https://github.com/archambaultv-prof/2025H-420-4D2-MA-Authentification.git"
   },
   "keywords": [
     "Education"
@@ -17,9 +18,9 @@
   "author": "Vincent Archambault-Bouffard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/archambaultv-prof/bac-a-sable-node/issues"
+    "url": "https://github.com/archambaultv-prof/2025H-420-4D2-MA-Authentification/issues"
   },
-  "homepage": "https://github.com/archambaultv-prof/bac-a-sable-node#readme",
+  "homepage": "https://github.com/archambaultv-prof/2025H-420-4D2-MA-Authentification#readme",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "express": "^4.21.2",
