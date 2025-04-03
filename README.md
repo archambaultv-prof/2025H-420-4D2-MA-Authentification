@@ -1,4 +1,5 @@
-# Bac à sable Node.js
+# Authentification en Node.js
 
-Un simple dépôt pour tester des choses en Node.js. Permet la mise en place d'un
-environnement de travail rapidement et de travailler sur plusieurs ordinateurs.
+Un simple dépôt pour illustrer l'authentification en Node.js JWT.
+
+Voir le fichier [authenfication](./authentification.md) pour plus de détails.
